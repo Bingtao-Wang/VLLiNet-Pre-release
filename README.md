@@ -123,6 +123,16 @@ See [docs/PERFORMANCE.md](docs/PERFORMANCE.md) for detailed performance analysis
 
 ---
 
+## 🎬 Application Demo
+
+**Automatic Line-Marking Machine in Action**
+
+[![Demo Video](https://img.shields.io/badge/Bilibili-Demo%20Video-00A1D6?logo=bilibili)](https://www.bilibili.com/video/BV14ScUzTENE/)
+
+VLLiNet is deployed on automatic line-marking machines for real-time road segmentation, enabling precise line marking on various road surfaces.
+
+---
+
 ## 🖼️ Qualitative Results
 
 ### ADI Generation Pipeline
