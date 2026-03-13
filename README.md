@@ -179,7 +179,7 @@ The figures and performance metrics presented here are for **academic demonstrat
 
 **Bingtao Wang**
 Shandong University
-Email: [your-email@example.com]
+Email: wangbt@mail.sdu.edu.cn
 
 ---
 
