@@ -6,6 +6,8 @@
 
 **VLLiNet** (Vision-LiDAR Lightweight Integration Network) is a lightweight multi-modal road segmentation network designed for automatic line-marking machines. By fusing RGB images and LiDAR data, it achieves **96.32% MaxF** on the KITTI Road dataset while maintaining **55 FPS** real-time inference with only **14.04M** parameters.
 
+> **📢 Pre-release Version**: This is a preview release during journal review. Full code and weights will be available upon publication.
+
 ---
 
 ## 🎯 Performance Highlights
@@ -163,9 +165,9 @@ This work is part of a Master's thesis at Shandong University (Chapter 2).
 
 ---
 
-## ⚠️ Important Notice
+## ⚠️ Pre-release Notice
 
-This work is currently **under journal review**. To protect intellectual property and maintain publication integrity:
+This is a **pre-release version** during journal review. To protect intellectual property and maintain publication integrity:
 
 - 🔒 **Model weights** are not publicly available
 - 🔒 **Core implementation details** (MSFM, fusion strategies) are not disclosed
